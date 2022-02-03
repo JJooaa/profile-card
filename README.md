@@ -1,5 +1,6 @@
 # Frontendmentor challenge speedrun
-Link : https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+Challenge link : https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+Solution link : https://jjooaa.github.io/profile-card/
 
 I wanted to find out how long it would take me to do this challenge. 
 Took me about 50-minutes.
